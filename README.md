@@ -1,4 +1,4 @@
-# st
+# st (suckless terminal)
 
 st fork from https://st.suckless.org/
 
