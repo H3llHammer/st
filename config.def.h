@@ -107,18 +107,28 @@ static const char *colorname[] = {
   [7] = "#bbbbbb", /* white   */
 
   /* 8 bright colors */
-  [8]  = "#44475a", /* black   */
-  [9]  = "#ff5555", /* red     */
-  [10] = "#50fa7b", /* green   */
-  [11] = "#f1fa8c", /* yellow  */
-  [12] = "#bd93f9", /* blue    */
-  [13] = "#463581", /* magenta */
-  [14] = "#8be9fd", /* cyan    */
-  [15] = "#ffffff", /* white   */
+  //[8]  = "#44475a", /* black   */
+  //[9]  = "#ff5555", /* red     */
+  //[10] = "#50fa7b", /* green   */
+  //[11] = "#f1fa8c", /* yellow  */
+  //[12] = "#bd93f9", /* blue    */
+  //[13] = "#463581", /* magenta */
+  //[14] = "#8be9fd", /* cyan    */
+  //[15] = "#ffffff", /* white   */
+
+  /* One dark colors */
+  [8]  = "#282C34", /* black   */
+  [9]  = "#E06c75", /* red     */
+  [10] = "#98C379", /* green   */
+  [11] = "#E5C07B", /* yellow  */
+  [12] = "#61AFEF", /* blue    */
+  [13] = "#C678DD", /* magenta */
+  [14] = "#56B6C2", /* cyan    */
+  [15] = "#ABB2BF", /* white   */
 
   /* special colors */
-  [256] = "#282a36", /* background */
-  //[256] = "#20212a", /* background custom */
+//[256] = "#282a36", /* background */
+  [256] = "#282C34", /* background custom */
   [257] = "#f8f8f2", /* foreground */
 };
 
